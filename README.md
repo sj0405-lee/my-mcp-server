@@ -1,5 +1,7 @@
 # TypeScript MCP Server 보일러플레이트
 
+[![smithery badge](https://smithery.ai/badge/@sj0405-lee/my-mcp-server)](https://smithery.ai/server/@sj0405-lee/my-mcp-server)
+
 TypeScript MCP SDK를 활용하여 Model Context Protocol (MCP) 서버를 빠르게 개발할 수 있는 보일러플레이트 프로젝트입니다.
 
 ## 📁 프로젝트 구조
